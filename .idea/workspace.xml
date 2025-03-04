@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97ee30a0-60f7-4831-bd79-1ad3b6e9754a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_01" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_02" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_03" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_04" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_05" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_06" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_06" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_07" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_07" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_08" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_09" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_10" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_11" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_12" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_13" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_14" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_15" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_16" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_17" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_17" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_18" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_19" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_20" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_21" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_22" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_23" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_24" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_25" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_25" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_26" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_26" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_27" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_27" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_28" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_28" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_29" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_30" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_30" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_31" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_31" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_32" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_32" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_33" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_33" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_34" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_34" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_35" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_35" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_36" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_36" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_37" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_38" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_38" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_39" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_39" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_40" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_40" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_41" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_41" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_42" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_42" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_43" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_43" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/CIA_docs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/CIA_docs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/DIA_01" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/DIA_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/DIA_02" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/DIA_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/DIA_03" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/DIA_03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/DIA_docs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/DIA_docs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_01" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_02" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_03" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_04" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_05" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_06" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_06" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_07" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_07" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_08" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_09" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_10" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_11" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_12" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_13" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_14" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_15" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_16" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_17" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_17" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_18" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_19" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_20" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_21" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_22" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_23" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_24" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_25" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_25" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_26" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_26" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_27" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_27" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_28" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_28" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_29" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_30" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_30" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_31" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_31" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_32" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_32" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_33" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_33" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_34" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_34" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_35" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_35" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_36" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_36" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_37" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_38" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_38" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_39" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_39" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_40" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_40" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_41" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_41" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/FBI_docs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/FBI_docs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_01" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_02" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_03" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_04" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_05" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_06" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_06" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_07" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_07" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_08" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_09" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_10" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_11" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_12" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_13" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_14" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_15" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_16" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_17" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_17" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_18" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_19" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_20" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_21" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_22" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/NSA_docs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/NSA_docs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/USCBP_01" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/USCBP_01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/USCBP_02" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/USCBP_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/dataset/USCBP_docs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset/USCBP_docs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2tpMrFpF2bjLcUEqN1uidxdq6cZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Ankitha/Downloads/VA/VA/Project 1/Code/my-react-app/public"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ankitha\Downloads\VA\VA\Project 1\Code\my-react-app\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ankitha\Downloads\VA\VA\Project 1\Code" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97ee30a0-60f7-4831-bd79-1ad3b6e9754a" name="Changes" comment="" />
+      <created>1741044760210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741044760210</updated>
+    </task>
+    <servers />
+  </component>
+</project>
