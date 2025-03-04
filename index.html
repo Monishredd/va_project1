@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document ID List and Workspace</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4" id="left-pane">
+        <button id="show-documents" class="btn btn-primary">Show Selected Documents</button>
+        <h2>Document ID List</h2>
+        <ul id="document-list" class="list-group"></ul>
+      </div>
+      <div class="col-md-8" id="right-pane">
+        <h2>Workspace</h2>
+        <div id="document-content" class="mt-3"></div>
+        <div id="selected-documents" class="mt-3"></div>
+      </div>
+    </div>
+  </div>
+  <!-- Place your script at the end of the body -->
+  <script src="./script.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.container-fluid {
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: #444;
+}
+
+#left-pane {
+  border-right: 1px solid #ddd;
+  padding: 20px;
+  background-color: #fff;
+}
+
+#right-pane {
+  padding: 20px;
+  background-color: #fff;
+}
+
+#document-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#document-list .list-group-item {
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  background-color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+#document-list .list-group-item:hover {
+  background-color: #f0f0f0;
+}
+
+#document-list .list-group-item.selected {
+  background-color: #007bff;
+  color: white;
+}
+
+#workspace {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+  min-height: 150px;
+  overflow-y: auto;
+  background-color: #f9f9f9;
+}
+
+#workspace .draggable-document {
+  padding: 15px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  background-color: #fff;
+  cursor: grab;
+  transition: box-shadow 0.3s;
+}
+
+#workspace .draggable-document:active {
+  cursor: grabbing;
+}
+
+#workspace .draggable-document.dragging {
+  opacity: 0.5;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#workspace h3 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  color: #333;
+}
+
+#workspace p {
+  margin: 0;
+  font-size: 1rem;
+  color: #666;
+}
+
+button {
+  margin-bottom: 20px;
+}
